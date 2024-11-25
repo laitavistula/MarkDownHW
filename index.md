@@ -32,7 +32,7 @@ This third paragraph is probably going to be much longer than the two previous p
 
 ### Bold
 
-This text is quote **bold**.\
+This text is quite **bold**.\
 Another way to get __bold__ text.
 
 ### Italics
