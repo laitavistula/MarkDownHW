@@ -32,7 +32,7 @@ This third paragraph is probably going to be much longer than the two previous p
 
 ### Bold
 
-This text is quite **bold**.\
+This text is quote **bold**.\
 Another way to get __bold__ text.
 
 ### Italics
@@ -46,7 +46,7 @@ The quick ~~brown~~ fox jumps over the lazy dog
 
 ### Quote
 
-This is a quite:
+This is a quote:
 > Then a hurricane came, and devastation reigned\
 > Our man saw his future drip, dripping down the drain
 
