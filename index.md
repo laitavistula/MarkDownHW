@@ -18,7 +18,7 @@
     - [External](#external-1)
 - [Lists](#lists)
   - [Ordered](#ordered)
-  - [Unorderly](#unorderly)
+  - [Unordered](#unordered)
 - [Tables](#tables)
 
 <!-- Example of paragraph of text with line break -->
