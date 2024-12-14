@@ -88,7 +88,7 @@ A news outlet: [https://www.bbc.com/news](https://www.bbc.com/news)
 
 #### Internal
 
-Like to a file example: [additional information](reference.md).
+Like to a file example: [additional information](Reference.md).
 
 ### Images
 
